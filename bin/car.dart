@@ -17,7 +17,6 @@ class Car {
     print("Total number of cars created: ${Car.count}");
   }
 
-
   void drive(double miles) {
     milesDriven += miles;
 
